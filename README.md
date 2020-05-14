@@ -1,5 +1,7 @@
 # fev2d
 
+网址：(https://github.com/chengweitj/fev2d)[https://github.com/chengweitj/fev2d]
+
 有限元教学二维可视化模块
 
 两类单元：三角形类单元、四边形类单元
