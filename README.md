@@ -1,6 +1,7 @@
 # fev2d
 
-网址：(https://github.com/chengweitj/fev2d)[https://github.com/chengweitj/fev2d]
+网址：https://github.com/chengweitj/fev2d
+作者：同济大学土木工程学院 程纬
 
 有限元教学二维可视化模块
 
